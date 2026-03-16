@@ -1,0 +1,28 @@
+# LLMs Index
+
+Project: JiaXuan Yu Resume
+Purpose: Machine-readable index for AI/LLM retrieval.
+
+Primary Pages
+- / (Chinese resume)
+- /en (English resume)
+
+Machine-Readable Files
+- /llms-full.txt
+- /resume.json
+- /sitemap.xml
+- /robots.txt
+
+Topic Summary
+- Applied AI Research
+- Diffusion Models
+- LLM Agent Systems
+- Multimodal Generation
+- Model Optimization
+- MLOps
+
+Contact (obfuscated)
+- cplyuef357[at]gmail.com
+
+Last Updated
+- 2026-03-16

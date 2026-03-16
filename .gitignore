@@ -1,0 +1,12 @@
+node_modules
+.nuxt
+.output
+.nitro
+.cache
+dist
+.codex
+.DS_Store
+pnpm-debug.log*
+.env
+.env.*
+!.env.example

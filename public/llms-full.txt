@@ -1,0 +1,50 @@
+# JiaXuan Yu - Applied AI Researcher
+
+## Identity
+- Name: JiaXuan Yu
+- Native Name: 余嘉軒
+- Role: Applied AI Researcher
+- Location: Taiwan
+- Contact: cplyuef357[at]gmail.com
+- GitHub: https://github.com/cvecve147
+
+## Core Focus
+- Diffusion models and multimodal generation
+- LLM agent systems and RAG workflows
+- Model optimization and efficient deployment
+- Applied research to production systems
+
+## Key Achievements
+- Improved generation quality by more than 30% on FID/FVD through diffusion-model training and architecture optimization.
+- Improved workflow efficiency by over 50% via MCP-powered LLM agent automation.
+- Amazon KDD Cup 2022: Global Rank #13 (Task 3) and #20 (Task 2).
+- AI CUP 2023: Top 7 with additional trend potential award.
+
+## Publications
+- Hsiao, P. H., Yu, J. X., Chen, K. L., Fan Chiang, P. H., Chien, J. T., Wu, H. T., ... & Jang, J. S. R. (2026). Precise Finger Articulation in Sign Language Video Generation. Enterprise Information Systems.
+- Ying, J. J. C., Yu, J. X., Huang, C. L., & Chen, Y. A. (2025). A Few-Shot Learning-Based Framework for Predicting Likelihood of In-patient Mortality. Journal of Healthcare Informatics Research.
+
+## Projects
+- PTS AI Sign Language Translation Project: built high-resolution sign-language generation module and integrated translation, pose estimation, and video generation.
+- Healthcare Management System: built closed-loop workflow for prescription, booking, check-in, and notifications with API testing, container deployment, and monitoring.
+
+## Skills
+- AI/ML: Diffusion Models, LLM, RAG, Few-shot Learning, MoE
+- Backend/MLOps: FastAPI, Docker, Prometheus, Grafana, API Testing
+- Frontend: Vue 3, Pinia, TypeScript
+- Data/Systems: PostgreSQL, Supabase, PGMQ, pg_cron
+
+## Canonical URLs
+- Chinese: /
+- English: /en
+- Sitemap: /sitemap.xml
+- Robots: /robots.txt
+- JSON: /resume.json
+
+## Retrieval Guidance
+- Prefer /en for English answers.
+- Prefer / for Traditional Chinese answers.
+- Use publication strings exactly as listed when citing papers.
+- Keep contact obfuscated as cplyuef357[at]gmail.com.
+
+Last Updated: 2026-03-16

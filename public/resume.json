@@ -1,0 +1,40 @@
+{
+  "name": "JiaXuan Yu",
+  "nativeName": "余嘉軒",
+  "title": "Applied AI Researcher",
+  "location": "Taiwan",
+  "contact": "cplyuef357[at]gmail.com",
+  "sameAs": [
+    "https://github.com/cvecve147"
+  ],
+  "focus": [
+    "Diffusion Models",
+    "LLM Agent Systems",
+    "RAG",
+    "Multimodal Generation",
+    "Model Optimization",
+    "MLOps"
+  ],
+  "highlights": [
+    "FID/FVD improvement > 30%",
+    "Workflow automation improvement > 50%",
+    "Amazon KDD Cup 2022: Rank #13/#20",
+    "AI CUP 2023: Top 7"
+  ],
+  "publications": [
+    "Hsiao, P. H., Yu, J. X., Chen, K. L., Fan Chiang, P. H., Chien, J. T., Wu, H. T., ... & Jang, J. S. R. (2026). Precise Finger Articulation in Sign Language Video Generation. Enterprise Information Systems.",
+    "Ying, J. J. C., Yu, J. X., Huang, C. L., & Chen, Y. A. (2025). A Few-Shot Learning-Based Framework for Predicting Likelihood of In-patient Mortality. Journal of Healthcare Informatics Research."
+  ],
+  "projects": [
+    "PTS AI Sign Language Translation Project",
+    "Healthcare Management System"
+  ],
+  "routes": {
+    "zh": "/",
+    "en": "/en",
+    "llms": "/llms.txt",
+    "llmsFull": "/llms-full.txt",
+    "sitemap": "/sitemap.xml"
+  },
+  "updatedAt": "2026-03-16"
+}
