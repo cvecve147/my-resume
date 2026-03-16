@@ -13,17 +13,11 @@ Hsiao, P. H., Yu, J. X., Chen, K. L., Fan Chiang, P. H., Chien, J. T., Wu, H. T.
 Ying, J. J. C., Yu, J. X., Huang, C. L., & Chen, Y. A. (2025). A Few-Shot Learning-Based Framework for Predicting Likelihood of In-patient Mortality. Journal of Healthcare Informatics Research (IF: 5.4).
 
 # 工作經歷
-## 生成式模型研究
-改良損失函數、特徵工程與多階段訓練流程，提升生成穩定性與畫質。
-在 FID / FVD 指標提升超過 30%，並完成產品流程整合。
-
-## 輕量化模型優化
-針對骨架估測任務設計模型輕量化與資料篩選策略。
-在可控模型尺寸下，動作準確度相較大型基準模型提升約 5%。
-
-## LLM Agent 系統
-開發 MCP 擴展工具並建置 Agent Workflow。
-自動化資料分析、圖表與簡報流程，整體效率提升超過 50%。
+## 工業技術研究院（Industrial Technology Research Institute, ITRI）｜2024-Present
+參與應用型 AI 研究與落地開發，聚焦生成式模型、系統整合與部署流程優化，協作跨領域團隊將研究成果轉換為可驗證、可部署的實務方案。
+- 生成式模型研究：改良損失函數、特徵工程與多階段訓練流程，提升生成穩定性與畫質，FID / FVD 指標提升超過 30%，並完成產品流程整合。
+- 輕量化模型優化：針對骨架估測任務設計模型輕量化與資料篩選策略，在可控模型尺寸下，動作準確度相較大型基準模型提升約 5%。
+- LLM Agent 系統：開發 MCP 擴展工具並建置 Agent Workflow，自動化資料分析、圖表與簡報流程，整體效率提升超過 50%。
 
 # 專案成就
 ## 公共電視 AI 手語翻譯專案

@@ -13,17 +13,11 @@ Hsiao, P. H., Yu, J. X., Chen, K. L., Fan Chiang, P. H., Chien, J. T., Wu, H. T.
 Ying, J. J. C., Yu, J. X., Huang, C. L., & Chen, Y. A. (2025). A Few-Shot Learning-Based Framework for Predicting Likelihood of In-patient Mortality. Journal of Healthcare Informatics Research (IF: 5.4).
 
 # Work Experience
-## Generative Model Research
-Improved training stability and visual quality through loss-function tuning, feature engineering, and multi-stage training strategies.
-Achieved over 30% gains on FID/FVD and integrated outcomes into production workflows.
-
-## Lightweight Model Optimization
-Designed lightweight modeling and data-selection strategies for pose estimation tasks.
-Improved action accuracy by around 5% versus larger baseline models under constrained model size.
-
-## LLM Agent Systems
-Built MCP extensions and agent-based workflows for research automation.
-Automated analysis, charting, and slide generation, improving process efficiency by over 50%.
+## Industrial Technology Research Institute (ITRI) | 2024-Present
+Contributed to applied AI research and delivery, focusing on generative models, system integration, and deployment optimization, and worked with cross-functional teams to turn research outcomes into validated, deployable solutions.
+- Generative model research: improved training stability and visual quality through loss-function tuning, feature engineering, and multi-stage training strategies; achieved over 30% gains on FID/FVD and integrated outcomes into production workflows.
+- Lightweight model optimization: designed lightweight modeling and data-selection strategies for pose estimation tasks; improved action accuracy by around 5% versus larger baseline models under constrained model size.
+- LLM agent systems: built MCP extensions and agent-based workflows for research automation; automated analysis, charting, and slide generation, improving process efficiency by over 50%.
 
 # Projects
 ## PTS AI Sign Language Translation Project
